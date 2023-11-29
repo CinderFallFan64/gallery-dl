@@ -1,0 +1,10 @@
+{
+"extractor":
+{
+    "base-directory": "./gallery-dl/",
+    "imgur":
+	{
+		"directory": ["imgur", "{album['xx7Nc24']} - {album['Cinder Fall']}"]
+	}
+}
+}
